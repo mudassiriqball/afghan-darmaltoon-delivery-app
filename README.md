@@ -23,6 +23,8 @@ App apk link:
   https://expo.io/accounts/mudassiriqball/builds/3ff14284-7ab1-4559-af31-5b6080e9c6d3
   https://expo.io/artifacts/0a87355f-1c73-4a1e-89c8-113eba75bb0c
 
+# Technologies Used:
+1) React Native
 
 ![account](https://user-images.githubusercontent.com/55241950/111446572-5e94fd80-872e-11eb-89ba-76e80323feb7.jpeg)
 
