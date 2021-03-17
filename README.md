@@ -7,6 +7,19 @@ When order is picked the order status updated to processing and an QR code is ge
 Then delivery boy scan the QR or by entering order ID and deliver the order to customer.
 Delivery boys can see their processig/pending/delivered orders in the app.
 
+Customer can also see their pending/delivered.in progress/cancelled orders using this app.
+Also can accept orders by showing his QR code using the app.
+
+Account for login as delivery boy:
+  phone: +923105378008
+  password; password
+
+Account for login as delivery boy:
+  phone: +923105378010
+  password; password
+  
+App apk link: https://expo.io/artifacts/0a87355f-1c73-4a1e-89c8-113eba75bb0c
+
 
 ![account](https://user-images.githubusercontent.com/55241950/111446572-5e94fd80-872e-11eb-89ba-76e80323feb7.jpeg)
 
